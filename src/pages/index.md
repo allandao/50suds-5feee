@@ -60,7 +60,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: 50 States Suds
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
