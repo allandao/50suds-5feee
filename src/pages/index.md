@@ -39,7 +39,7 @@ sections:
           name: John Dope
           location: 'Michigan, USA'
         text: >-
-          I loved seeing this soap at gift stores near me. It was the first thing I bought!
+          I loved seeing this soap at gift stores near me. It was the first thing I picked up to bought!
       - author:
           name: Major Payne
           location: 'Michigan, USA'
