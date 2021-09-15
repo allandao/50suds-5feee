@@ -7,7 +7,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: Fifty States Suds
     subtitle: >-
-      Fifty States Suds is a company started by college students in Michigan looking to 
+      Fifty States Suds is a company started by college students in Michigan looking to create fun way for people to stay clean while reprsenting 
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
