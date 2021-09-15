@@ -1,5 +1,5 @@
 ---
-title: Go Blue edition
+title: pure michigan Sky Blue
 order: 1
 seo:
   title: Big plants
