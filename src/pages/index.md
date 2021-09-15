@@ -50,7 +50,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: High quality soap in the shape of your home state
+    title: High quality soap in the shape of your home state!
     subtitle: Only $5.99
     image: images/promo.jpg
     background_image: images/leaf.svg
