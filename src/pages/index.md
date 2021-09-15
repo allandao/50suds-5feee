@@ -9,7 +9,6 @@ sections:
     content: >
       # Fifty State Suds
 
-
       To place order, please contact us with soap quantity and type (ex. 1
       Michigan Soap \*Go Blue Edition) and Venmo $5.99/soap @fiftystatesuds
     actions:
