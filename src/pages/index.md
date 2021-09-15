@@ -10,8 +10,8 @@ sections:
       # Fifty State Suds
 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      To place order, please contact us with soap quantity and type (ex. 1
+      Michigan Soap \*Go Blue Edition) and Venmo $5.99/soap @fiftystatesuds
     actions:
       - title: See all items
         url: /store
