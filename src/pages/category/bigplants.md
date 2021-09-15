@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Go Blue edition
 order: 1
 seo:
   title: Big plants
