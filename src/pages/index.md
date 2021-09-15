@@ -61,7 +61,7 @@ sections:
       arrow: true
 seo:
   title: 50 States Suds
-  description: The preview of the Planty theme
+  description: Soaps in the shape of states
   extra:
     - name: 'og:type'
       value: website
