@@ -26,11 +26,6 @@ sections:
       - src/pages/products/plant1.md
       - src/pages/products/plant3.md
       - src/pages/products/plant5.md
-  - type: featured_categories_section
-    section_id: featured_categories_section
-    featured_categories:
-      - src/pages/category/bigplants.md
-      - src/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
