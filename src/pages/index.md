@@ -39,9 +39,7 @@ sections:
           name: John Dope
           location: 'Michigan, USA'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          I loved seeing this soap at gift stores near me and 
       - author:
           name: Major Payne
           location: 'Michigan, USA'
