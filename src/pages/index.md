@@ -46,8 +46,7 @@ sections:
           name: Major Payne
           location: 'Michigan, USA'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          This soap is awesome to use and is a great gift for friends and family!
   - type: promotion_section
     section_id: promotion_section
     title: High quality soap in the shape of your home state!
