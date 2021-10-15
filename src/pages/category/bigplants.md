@@ -1,5 +1,5 @@
 ---
-title: pure michigan Sky Blue
+title: pure michigan - Sky Blue
 order: 1
 seo:
   title: Big plants
