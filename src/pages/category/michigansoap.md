@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
+      value: Michigan Soaps
       keyName: property
     - name: 'og:description'
       value: This is the store page
