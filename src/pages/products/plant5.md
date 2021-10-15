@@ -1,7 +1,7 @@
 ---
 id: '5'
 price: '5.99'
-title: Michigan Soap
+title: Go Green
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
