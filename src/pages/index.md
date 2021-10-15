@@ -4,7 +4,8 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: https://images.unsplash.com/photo-1470100568678-c2bc2ba890c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
+    background_image: >-
+      https://images.unsplash.com/photo-1470100568678-c2bc2ba890c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80
     background_image_opacity: 65
     content: >
       # Fifty State Suds
@@ -30,15 +31,17 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: John Yu
           location: 'Michigan, USA'
         text: >-
-          I loved seeing this soap at gift stores near me. It was the first thing I picked up to buy!
+          I loved seeing this soap at gift stores near me. It was the first
+          thing I picked up to buy!
       - author:
           name: Major Payne
           location: 'Michigan, USA'
         text: >-
-          This soap is awesome to use and is a great gift for friends and family!
+          This soap is awesome to use and is a great gift for friends and
+          family!
   - type: promotion_section
     section_id: promotion_section
     title: High quality soap in the shape of your home state!
