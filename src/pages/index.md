@@ -37,7 +37,7 @@ sections:
           I loved seeing this soap at gift stores near me. It was the first
           thing I picked up to buy!
       - author:
-          name: Major Payne
+          name: Allan Dao
           location: 'Michigan, USA'
         text: >-
           This soap is awesome to use and is a great gift for friends and
