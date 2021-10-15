@@ -2,7 +2,7 @@
 title: pure michigan - traditional sky blue
 order: 1
 seo:
-  title: Big plants
+  title: Michigan Soaps
   description: This is the store page
   extra:
     - name: 'og:type'
