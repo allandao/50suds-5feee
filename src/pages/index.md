@@ -34,8 +34,8 @@ sections:
           name: John Yu
           location: 'Michigan, USA'
         text: >-
-          I loved seeing this soap at gift stores near me. It was the first
-          thing I picked up to buy!
+          I loved seeing this soap at the gift shop near me. It was the first
+          thing I chose to buy!
       - author:
           name: Allan Dao
           location: 'Michigan, USA'
