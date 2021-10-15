@@ -1,5 +1,5 @@
 ---
-title: pure michigan - traditional sky blue
+title: Michigan Soaps
 order: 1
 seo:
   title: Michigan Soaps
