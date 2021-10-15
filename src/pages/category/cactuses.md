@@ -1,5 +1,5 @@
 ---
-title: Go Blue edition
+title: Washington Soaps
 order: 2
 seo:
   title: Cactuses
