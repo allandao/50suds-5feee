@@ -19,8 +19,9 @@ export default class ProductGridItem extends React.Component {
                     </figcaption>
                 </figure>
                 <div className="product-grid__definition">
-                    <Link to={withPrefix(_.get(product_page, 'url', null))}><h3 className="product-grid__title">{_.get(product_page, 'frontmatter.title', null)}</h3></Link>
+                    
                     {_.get(product_page, 'frontmatter.category', null) && ((() => {
+                        <Link to={withPrefix(_.get(product_page, 'url', null))}><h3 className="product-grid__title">{_.get(product_page, 'frontmatter.title', null)}</h3></Link>
                         let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(product_page, 'frontmatter.category', null));
                         return (
                             <span className="product-grid__category"> {_.get(category_page, 'frontmatter.title', null)} </span>
