@@ -61,7 +61,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: 50 State Suds
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
