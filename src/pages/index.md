@@ -41,7 +41,7 @@ sections:
           location: 'Michigan, USA'
         text: >-
           This soap is awesome to use and is a great gift for friends and
-          family!
+          family.,
   - type: promotion_section
     section_id: promotion_section
     title: High quality soap in the shape of your home state!
