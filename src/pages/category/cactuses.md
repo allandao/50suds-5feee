@@ -1,5 +1,5 @@
 ---
-title: Go green edition
+title: Go Blue edition
 order: 2
 seo:
   title: Cactuses
