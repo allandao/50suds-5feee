@@ -64,7 +64,7 @@ seo:
       value: 50 State Suds
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: 50 State Suds Michigan Soaps
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
