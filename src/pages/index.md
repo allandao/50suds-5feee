@@ -46,7 +46,7 @@ sections:
     section_id: promotion_section
     title: High quality soap in the shape of your home state!
     subtitle: Only $5.99
-    image: images/promo.jpg
+    image: images/all-soaps.jpg
     background_image: images/leaf.svg
     cta:
       title: See More
