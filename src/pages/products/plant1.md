@@ -1,7 +1,7 @@
 ---
 id: '1'
 price: '5.99'
-title: Pure Michigan - Traditional Sky Blue
+title: Michigan Soaps
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
