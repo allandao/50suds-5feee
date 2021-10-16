@@ -6,11 +6,7 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Fifty States Suds
-    subtitle: >-
-      Fifty States Suds is a company started by college students in Michigan
-      looking to create fun way for people to stay clean while representing
-      where they are from. We feature soaps in the shape of Michigan in addition
-      to themed colors featuring colleges around the state!
+    subtitle: "Fifty States Suds was started by college students in Michigan looking to create a great way for people to stay clean while representing where they are from. We feature soaps in the shape of Michigan in addition to themed colors featuring colleges around the state!\n\nWe are Fifty State Suds!\_\U0001F9FC\_We are a lifestyle brand whose goal is to provide you with good-smelling, clean, natural soap embodying the smell of your state so that you may cleanse yourself in the fragrance of your home, taking it with you wherever you go.\_\U0001F3E0\nOur first state, Michigan, is a blend of sweet cherries and apple blossom reminiscent of pure Michigan summers and a harvest fall.\_\U0001F34E\U0001F352\_This soap is currently available in the following styles: Traditional Michigan\U0001F4A7, Michigan Go Blue edition\U0001F49B\U0001F499, and Michigan Go Green edition\U0001F49A\U0001F90D\n\n"
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
