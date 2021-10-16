@@ -42,7 +42,7 @@ sections:
     section_id: contact_section
     address: 'Grand Rapids, Michigan'
     phone: +1-202-555-0112
-    email: v
+    email: @fiftystatesuds
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
