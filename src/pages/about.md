@@ -14,12 +14,9 @@ sections:
         description: "We are up on Etsy! Our Go Blue Michigan soap is the perfect present for you favorite Wolverine this year.\_It’s a perfect personalized gift for this holiday! Can’t forget the smell of sweet cherries and apple blossom, it’s a combination made in heaven.\n\n"
         image: images/all-soaps.jpg
       - title: Local Businesses
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          We work with local businesses in Michigan to help feature our product
+          across the state in these great stores.
         image: images/michigan-goblue-leaves.jpg
   - type: promotion_section
     section_id: promotion_section
