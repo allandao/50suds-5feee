@@ -13,8 +13,8 @@ sections:
     questions:
       - question: How long does shipping take?
         answer: >
-          Shipping is based on when your order is received. We will only ship
-          our soaps within the state they are made for.
+          Shipping is based on when your order is received. We currently only
+          ship our soaps within the state they are made for.
 
 
           *   US shipping within the state of Michigan will take between 3 to 5
