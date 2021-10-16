@@ -41,7 +41,7 @@ sections:
           location: 'Michigan, USA'
         text: >-
           This soap is awesome to use and is a great gift for friends and
-          family.,
+          family.
   - type: promotion_section
     section_id: promotion_section
     title: High quality soap in the shape of your home state!
@@ -75,7 +75,7 @@ seo:
     - name: 'twitter:title'
       value: Planty Theme
     - name: 'twitter:description'
-      value:  50 State Suds
+      value: 50 State Suds
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
